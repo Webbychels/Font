@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Pirates Stoertebecker';
+    src: url('../fonts/Pirates-Stoertebecker.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Pirates Stoertebecker', serif;
+    background: #f8f8f8;
+    color: #222;
+    padding: 2em;
+    text-align: center;
+}
